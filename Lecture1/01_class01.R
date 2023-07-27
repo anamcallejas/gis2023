@@ -2,10 +2,8 @@
 ## 01_CLASS01.R - R Script for Lecture 01 (GIS course).
 
 # version: 1.0
-# Author: Ana María Callejas 
-# Based on Bruno Conte Leite @2022-23
-# b.conte@unibo.it version 1.0
-# 
+# Author: Bruno Conte Leite @2022-23 b.conte@unibo.it
+# Revised by Ana María Callejas
 
 ## ------------------------------------------------------
 
@@ -15,7 +13,7 @@
 # 1.1. Working directory:
 
 getwd() # learn which is the current working directory
-setwd("~/Desktop/")
+setwd("C:/Users/amcal/Documentos/Clases/4-GIS/Lecture1")
 
 # 1.2. Basic R elements:
 
